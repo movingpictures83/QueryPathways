@@ -1,0 +1,2 @@
+pathways	plugins/QueryPathways/example/pathwayinfo2.txt
+queryfile	plugins/QueryPathways/example/query.txt

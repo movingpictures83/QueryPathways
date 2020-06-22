@@ -1,0 +1,2 @@
+Prefix plugins/QueryPathways/example/
+Plugin QueryPathways inputfile parameters.txt outputfile results.txt
