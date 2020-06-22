@@ -1,4 +1,4 @@
-# ClusterPathways
+# QueryPathways
 # Language: Python
 # Input: TXT
 # Output: TXT
