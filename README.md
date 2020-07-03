@@ -2,7 +2,7 @@
 # Language: Python
 # Input: TXT
 # Output: TXT
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
 
 PluMA plugin to query reactions from the PathwayTools
 database (Karp et al, 2015) for taxa and/or metabolites.  It returns pathways in TXT format.
